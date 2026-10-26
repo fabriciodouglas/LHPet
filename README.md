@@ -16,4 +16,4 @@ Abra no navegador o link exibido no terminal (ex.: https://localhost:7072 ou htt
 
 Requer o SDK do .NET 8 (testado). Para .NET 6, troque `net8.0` por `net6.0` no arquivo `LHPet/LHPet.csproj`.
 
-Aluno(a): _escreva seu nome aqui_
+Aluno(a): Fabricio Douglas Gonçalves
